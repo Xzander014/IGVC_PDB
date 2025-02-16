@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "C:/Users/karti/Documents/KiCad/MANAS/IGVC/New_Library.kicad_sym")(options "")(descr ""))
+)
